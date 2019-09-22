@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Projects/Project1/Freightlitica/.idea/Freightlitica.iml" filepath="E:/Projects/Project1/Freightlitica/.idea/Freightlitica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project1.iml" filepath="$PROJECT_DIR$/.idea/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../calculator/.idea/calculator.iml" filepath="$PROJECT_DIR$/../calculator/.idea/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myvenv/.idea/myvenv.iml" filepath="$PROJECT_DIR$/../myvenv/.idea/myvenv.iml" />
+    </modules>
+  </component>
+</project>
